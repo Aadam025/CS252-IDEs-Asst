@@ -2,5 +2,5 @@
 
 The starting code for a CS252 assignment.
 
-* Submitted by: `cs_aadam025@linux.cs.odu.edu`
+* Submitted by: `aadam025@odu.edu`
 
